@@ -5,3 +5,5 @@
 * `fswatch`
 * `lynx`
 
+#### Run
+`./runserver PORT`
